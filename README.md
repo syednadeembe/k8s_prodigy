@@ -12,4 +12,14 @@ Pods, Controllers, PV, PVC, Secrets and Config Map
 Module 4: Security
 Roles, Cluster Roles, CRB and Service Accounts 
 
-Module 5: 
+Module 5: Kubernetes Networking
+ClusterIP, NodePort, LoadBalancer, and Ingress
+
+Module 6: Scaling, Autoscaling and Monitoring 
+Horizontal Pod Autoscaling (HPA) based on CPU and custom metrics, Pod and Node Monitoring
+
+Module 7: Advanced Kubernetes Features
+CRDs, Jobs, CJobs, DS 
+
+Module 8: Deployments
+Rolling updates and rollbacks, Helm 
