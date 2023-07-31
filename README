@@ -1,5 +1,4 @@
-# k8s_prodigy
-Kubernetes traning material and hands on content
+# k8s_prodigy : Kubernetes traning material and hands on content
 Module 1 : Introduction 
 Architecture, components, functionality
 
@@ -21,5 +20,5 @@ Horizontal Pod Autoscaling (HPA) based on CPU and custom metrics, Pod and Node M
 Module 7: Advanced Kubernetes Features
 CRDs, Jobs, CJobs, DS 
 
-Module 8: Deployments
+Module 8: Deployments stateful & stateless
 Rolling updates and rollbacks, Helm 
